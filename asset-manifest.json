@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/reactticketproject/static/css/main.7db0caed.css",
+    "main.js": "/reactticketproject/static/js/main.8c8f4ffd.js",
+    "static/js/787.2908aaa0.chunk.js": "/reactticketproject/static/js/787.2908aaa0.chunk.js",
+    "index.html": "/reactticketproject/index.html",
+    "main.7db0caed.css.map": "/reactticketproject/static/css/main.7db0caed.css.map",
+    "main.8c8f4ffd.js.map": "/reactticketproject/static/js/main.8c8f4ffd.js.map",
+    "787.2908aaa0.chunk.js.map": "/reactticketproject/static/js/787.2908aaa0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7db0caed.css",
+    "static/js/main.8c8f4ffd.js"
+  ]
+}
